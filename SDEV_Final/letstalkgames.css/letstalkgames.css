@@ -1,0 +1,44 @@
+
+
+body {
+    background-color: rgb(37, 43, 63);
+    margin: 0px;
+    display: block;
+}
+
+main {
+    text-align: left;
+    margin-left: 50px;
+    color: rgba(255, 255, 255, 0.548);
+}
+
+h1 {
+   text-align: center;
+    top: 0px;
+    margin-left: 50px;
+    color: rgba(255, 255, 255, 0.548);
+}
+
+.navbar a {
+    color: rgb(14, 150, 204);
+    text-decoration: none;
+}
+
+.navbar ul {
+    text-align: center;
+    list-style-type: none;
+    background-color: rgb(66, 76, 110);
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 1.25em;
+}
+
+.navbar a:hover {
+    background-color: rgb(224, 29, 46);
+}
+
+.Games {
+    color: rgb(224, 29, 46);
+}
